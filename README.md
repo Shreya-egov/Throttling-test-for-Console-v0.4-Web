@@ -87,12 +87,10 @@ You can tweak these values as needed for your simulation.
 - The test will run based on thread settings (number of users, loops, etc.)
 - Results will be saved to the file you configured (e.g., `results.jtl`)
 
----
-
-## 📊 Generate HTML Report from GUI Results
-
 Once the test finishes and results are saved:
 
+
+---
 
 Using Chrome Dev's tool,report is generated  for  3G report
 you can check also in https://toolbox.googleapps.com/apps/har_analyzer/ by uploading  .har file.**\
