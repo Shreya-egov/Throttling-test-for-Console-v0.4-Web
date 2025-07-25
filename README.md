@@ -100,6 +100,11 @@ jmeter -g /path/to/results.jtl -o /path/to/html-report
 
 
 **
+
+
+
+
+
 Using Chrome Dev's tool,report is generated  for  3G report
 you can check also in https://toolbox.googleapps.com/apps/har_analyzer/ by uploading  .har file.**\
 
