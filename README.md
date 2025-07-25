@@ -1,5 +1,5 @@
 
-# 📶 2G/3G Throttling Testing using JMeter (GUI-Based) and Chrome's Dev tool (Network tab Throttling)
+# 📶 2G/3G Throttling Testing using JMeter (GUI-Based) and Chrome Dev's tool (Network tab Throttling)
 
 This repository contains a pre-configured **JMeter test plan (.jmx)** designed to simulate **2G and 3G network conditions** using JMeter GUI. It helps you understand how your application performs under limited bandwidth and higher latency.
 
